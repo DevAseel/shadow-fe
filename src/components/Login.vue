@@ -1,5 +1,5 @@
 <template>
-      <h1 class="text-3xl font-bold underline">
-    Login
-  </h1>
+  <div class="flex items-start justify-center container mx-auto lg:w-1/3 bg-white drop-shadow-md rounded">
+    content
+  </div>
 </template>
